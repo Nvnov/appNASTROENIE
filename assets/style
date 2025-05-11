@@ -1,10 +1,10 @@
-/* Основной фон */
+
 QMainWindow {
-    background-color: #1e1e2f; /* тёмный фон */
+    background-color: #1e1e2f; 
     color: #ffffff;
 }
 
-/* Боковая панель (кнопки меню) */
+
 QPushButton {
     background-color: #2e2e40;
     color: #ffffff;
@@ -23,13 +23,13 @@ QPushButton:pressed {
     background-color: #5e5e80;
 }
 
-/* Виджет центрального контента */
+
 QWidget {
     background-color: #252539;
     color: #ffffff;
 }
 
-/* QLabel для заголовков */
+
 QLabel {
     font-size: 18px;
     font-weight: bold;
