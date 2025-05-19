@@ -2,3 +2,6 @@ https://colab.research.google.com/drive/1FymilmV5CgyLePzw6--dc4LwNdlmL3DM?usp=sh
 Создание датасета и обучение модели
 https://drive.google.com/file/d/1gMAVq4fXpKW93xiUer2Covtw4ze6KV3q/view?usp=drive_link
 Модель
+вк группа для тестк https://m.vk.com/vk
+вк пост для теста 
+https://m.vk.com/wall-22822305_1605892?from=group
